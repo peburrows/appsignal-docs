@@ -2,9 +2,7 @@
 title: "The life cycle of an AppSignal request"
 ---
 
-From the code in your application to our gem, our server and your performance page, there are a lot of moving parts working together to generate our pretty graphs and performance pages.
-
-This page will describe the entire process and caveats that happen during this time.
+From the code in your application to our gem, our server and your performance page, there are a lot of moving parts working together to generate our pretty graphs and performance pages. This page will describe the entire process.
 
 AppSignal is eventual consistent, this means that (even though we try to minimize this) there is no arbitrary duration between a request on your server and displayed data on AppSignal.
 
