@@ -73,4 +73,4 @@ Add the required fields described above.
 
 ![fields](/images/screenshots/jira/fields.png)
 
-Getting Jira working can be a bit of a hassle, but you it should work if you follow the above steps with care. If you run into any issues, don't hesitate to contact us at <a href="mailto:contact@appsignal.com">contact@appsignal.com</a> if other errors occur.
+Getting Jira working can be a bit of a hassle, but it should work if you follow the above steps with care. If you run into any issues, don't hesitate to contact us at <a href="mailto:contact@appsignal.com">contact@appsignal.com</a> if other errors occur.
